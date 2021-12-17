@@ -1,6 +1,6 @@
-Quirc
+Quirc (forked by guardiola98)
 =====
-
+This is the same library created by dlbeer but it has an option for low memory devices
 QR codes are a type of high-density matrix barcodes, and quirc is a library for
 extracting and decoding them from images. It has several features which make it
 a good choice for this purpose:
